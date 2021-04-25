@@ -1,6 +1,15 @@
 ### Hello World!
 
+반갑습니다! 백엔드 주니어 개발자 🌱찬입니다.
+
+배우고, 성장하고, 공유하는 삶을 좋아합니다.
+
+### Tech Stack
+
+
+### GitHub Stats
 [![Chan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leechanmul&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leechanmul&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
